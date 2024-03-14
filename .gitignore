@@ -1,0 +1,9 @@
+/dist/
+/data/
+/test/admin-ui/
+node_modules
+__data__
+dump.rdb
+.swc
+data
+yarn-error.log
